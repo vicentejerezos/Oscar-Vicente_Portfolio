@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Oscar Vicente</title>
+    <link>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/</link>
+    <description>Recent content in Projects on Oscar Vicente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project IV: Credit Card Fraud Detection</title>
+      <link>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/project-4/</link>
+      <pubDate>Sun, 30 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/project-4/</guid>
+      <description>Semi-supervised Learning and Classification Model.
+  Dealt with high imbalanced dataset.
+  Created a tool that identifies, using a Dataset provided with transactions made by credit cards in September 2013 by European cardholders, fraudulent credit card transactions.
+  There are three Resampling Techniques:
+ Under sample majority class. Over sample minority class. Generate synthetic samples (SMOTE).    Used Under sampling and Over sampling to deal with class imbalance in this project.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Walmart - Store Sales Forecasting</title>
+      <link>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 03 Aug 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/project-3/</guid>
+      <description>Supervised Learning and Regression Model.
+  Created a tool that predicts, using a Dataset provided with historical sales data for 45 Walmart stores located in different regions, the weekly sales of each store.
+  Analyzed correlation between price and every and each one of the features.
+  Dealt with skewed data.
+  Handled negative data values while reducing high skewness.
+  Came up with an effective solution, u = log(y + 1 - min(y)), to convert them into positive when transforming skewed data.</description>
+    </item>
+    
+    <item>
+      <title>Project II: House Prices - Advanced Regression Techniques</title>
+      <link>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 13 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/project-2/</guid>
+      <description>Supervised Learning and Regression Model.
+  Created a tool that predicts, based on 79 explanatory variables describing every aspect of residencial homes in Ames, Lowa, the final price of each home.
+  Analyzed correlation between price and every and each one of the features.
+  Dealt with skewed data.
+  Used Machine Learning Algorithms such as:
+ Linear Regresssion. Decision Tree Regressor. Random Forest Regressor.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Titanic Disaster</title>
+      <link>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 23 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vicentejerezos.github.io/Oscar-Vicente_Portfolio/post/project-1/</guid>
+      <description>Supervised Learning and Classification Model.
+  Created a tool that predicts, based on some features, which passengers survived the Titanic shipwreck.
+  Answered important questions such as:
+ How many survived? Was gender an important factor? Was the class important? Was age important? Was &amp;ldquo;Women and children first&amp;rdquo; a true story? What happened to the Captain?    Used Machile Learning Algorithms such as:
+ Logistic Regression.</description>
+    </item>
+    
+  </channel>
+</rss>
